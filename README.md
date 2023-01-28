@@ -17,8 +17,8 @@
 - 👋 Hi, I’m Priyanshi Raval
 - 👀 I enjoy learning and working on Blockchain technology.
 - 🌱 My tech-stack includes Solidity, Rust, JavaScript, Anchor, React, Next, Ethers.js, SolanaWeb3.js, Java.
-- ❤️ Member of LearnWeb3DAO
-- 🚀 I have made projects like TwitterClone using React.js , also have worked  User owned Profile Open Decentralised.
+- ❤️ Member of LearnWeb3DAO , Developer DAO
+- 🚀 I have made projects like BlockTube using React.js , also have worked  User owned Profile Open Decentralised.
 
 
 
