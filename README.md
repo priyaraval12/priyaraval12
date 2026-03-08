@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/priyanshi-raval-8b1609228/" target="_blank">
+<a href="www.linkedin.com/in/priyansiraval" target="_blank">
 <img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
