@@ -1,9 +1,9 @@
-<a href="www.linkedin.com/in/priyansiraval" target="_blank">
-<img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+<a href="https://www.linkedin.com/in/priyanshi-raval-8b1609228/" target="_blank">
+  <img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <a href="mailto:priyanshiraval26@gmail.com">
-<img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 
 <br>
@@ -11,11 +11,13 @@
 
 ## 👋 Hi, I'm Priyansi Raval
 
-📊 Data Analyst with **3+ years of experience** transforming data into actionable insights.
+📊 Data Analyst with 3+ years of experience transforming data into actionable insights and data-driven decisions.
 
-💡 Passionate about **data analytics, business intelligence, and data-driven decision making**.
+💡 Skilled in Python, SQL, Power BI, Tableau, and building ETL pipelines and analytics dashboards.
 
-📍 Based in USA | Open to **Data Analyst opportunities**
+🚀 Passionate about product analytics, business intelligence, and solving real-world problems using data.
+
+📍 Based in USA | Open to Data Analyst opportunities
 
 ---
 
@@ -36,17 +38,17 @@
 
 ## 🚀 Featured Projects
 
-**Customer Retention & Churn Prediction**  
+🔹 **Customer Retention & Churn Prediction Analytics**  
 Python • SQL • Power BI • AWS
 
-**SaaS Feature Adoption & Usage Analysis**  
+🔹 **SaaS Feature Adoption & Usage Analysis**  
 Python • SQL • Tableau • Snowflake
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 [https://priyansiraval.vercel.app/]
+🔗 https://priyansiraval.vercel.app/
 
 ---
 
