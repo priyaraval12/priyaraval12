@@ -2,7 +2,7 @@
 <img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
-<a href="mailto:priyansiraval26@gmail.com">
+<a href="mailto:priyanshiraval26@gmail.com">
 <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 
@@ -46,7 +46,7 @@ Python • SQL • Tableau • Snowflake
 
 ## 🌐 Portfolio
 
-🔗 https://your-portfolio-link
+🔗 [https://priyansiraval.vercel.app/]
 
 ---
 
